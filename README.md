@@ -5,7 +5,7 @@
 ---
 
 ## 🏷️ Pronouns  
-**He/Him** (online only, please avoid offline/in-person usage for safety — thanks!)
+**He/Him** (online only, please avoid offline/in-person usage for safety, thanks!)
 
 ---
 
@@ -57,7 +57,8 @@ No specific blacklist, just:
 
 Thanks for stopping by!  
 Follow me if you dare. 😎  
-[Linktree — my typology hub](https://linktr.ee/kaayzouee)  
+[My cool af tiktok account](https://www.tiktok.com/@kaayzouee)
+[Linktree - my typology hub](https://linktr.ee/kaayzouee)  
 
 ---
 
