@@ -17,7 +17,7 @@
 
 ---
 
-## ⚔️ Battle Mode Friendly (BMF)  
+## ⚔️ Be My FriendFriend (BMF)  
 - Open to add/accept requests from online bros only  
 - IRLs? Depends on my mood (maybe, maybe not)
 
