@@ -57,8 +57,8 @@ No specific blacklist, just:
 
 Thanks for stopping by!  
 Follow me if you dare. 😎  
-[My cool af tiktok account](https://www.tiktok.com/@kaayzouee)
-[Linktree - my typology hub](https://linktr.ee/kaayzouee)  
+- [My cool af tiktok account](https://www.tiktok.com/@kaayzouee)
+- [Linktree - my typology hub](https://linktr.ee/kaayzouee)  
 
 ---
 
