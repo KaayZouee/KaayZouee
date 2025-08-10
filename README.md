@@ -28,7 +28,7 @@
 - Uglie-looking fish ☹️  
 - Linux (yeah, even as an Arch user, it frustrates me sometimes)  
 - NixOS (my toxic ex — don’t ask)
-
+- Windows users
 ---
 
 ## 🧠 Typology & Personality  
