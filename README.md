@@ -34,7 +34,8 @@
 ## 🧠 Typology & Personality  
 - ENTP-T(oxic) (just kidding 😜)  
 - Actually: ENTP EN(T), Socionics ILE-Ti, Enneagram sp7w8  
-- SLOEI Sang-Phleg temperament  
+- Big Five: SLOEI
+- Temperaments: Sang-Phleg
 - And no, that’s *not* my full typology, don’t ask for the whole thing
 
 ---
