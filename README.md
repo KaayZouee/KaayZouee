@@ -17,7 +17,7 @@
 
 ---
 
-## ⚔️ Be My FriendFriend (BMF)  
+## ⚔️ Be My Friend (BMF)  
 - Open to add/accept requests from online bros only  
 - IRLs? Depends on my mood (maybe, maybe not)
 
