@@ -12,7 +12,7 @@
 ## 🎯 Interests  
 - Linux (Arch user, yes I live on the edge)  
 - Typology & personality theories  
-- Destroying hardware at 11 PM for absolutely no reason  
+- Destroying hardware at 11 PM for absolutely **no** reason  
 - Psychology (and maybe philosophy someday... but I’m a noob)
 
 ---
@@ -44,7 +44,6 @@
 - Multi-interests final boss  
 - Grammar is my biggest nemesis  
 - I’m cool? I guess... maybe...  
-- Carmy vibes for life  
 - RIP Spotify TUI 🤧
 
 ---
