@@ -28,19 +28,10 @@
 - Uglie-looking fish ☹️  
 - Linux (yeah, even as an Arch user, it frustrates me sometimes)  
 - Windows users
----
-
-## 🧠 Typology & Personality  
-- ENTP-T(oxic) (just kidding 😜)  
-- Actually: ENTP EN(T), Socionics ILE-Ti, Enneagram sp7w8  
-- Big Five: SLOEI
-- Temperaments: Sang-Phleg
-- And no, that’s *not* my full typology, don’t ask for the whole thing
 
 ---
 
-## 🎲 Random Facts  
-- The calmest “L” in Big Five, probably  
+## 🎲 Random Facts    
 - Multi-interests final boss  
 - Grammar is my biggest nemesis  
 - I’m cool? I guess... maybe...  
