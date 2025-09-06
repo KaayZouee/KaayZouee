@@ -24,24 +24,9 @@
 ---
 
 ## 💀 Pet Peeves & Hates  
-- Dust (why is it everywhere?)  
-- Uglie-looking fish ☹️  
-- Linux (yeah, even as an Arch user, it frustrates me sometimes)  
-- Windows users
-
----
-
-## 🎲 Random Facts    
-- Multi-interests final boss  
-- Grammar is my biggest nemesis  
-- I’m cool? I guess... maybe...  
-- RIP Spotify TUI 🤧
-
----
-
-## 🚫 DNI (Do Not Interact)  
-No specific blacklist, just:  
-**Don’t be weird or harass people.** That’s all.
+- Dust (why is it everywhere?) 
+- Linux (yeah, even as a Linux user)
+- SOME Windows users
 
 ---
 
