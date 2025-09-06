@@ -4,22 +4,11 @@
 
 ---
 
-## 🏷️ Pronouns  
-**He/Him** (online only, please avoid offline/in-person usage for safety, thanks!)
-
----
-
 ## 🎯 Interests  
 - Linux (Arch (endeavour too) and NixOS user)
 - Typology & personality theories  
 - Destroying hardware at 11 PM for absolutely **no** reason  
 - Psychology (and maybe philosophy someday... but I’m a noob)
-
----
-
-## ⚔️ Be My Friend (BMF)  
-- Open to add/accept requests from online bros only  
-- IRLs? Depends on my mood (maybe, maybe not)
 
 ---
 
