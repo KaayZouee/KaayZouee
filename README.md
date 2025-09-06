@@ -10,7 +10,7 @@
 ---
 
 ## 🎯 Interests  
-- Linux (Arch user, yes I live on the edge)  
+- Linux (Arch (endeavour too) and NixOS user)
 - Typology & personality theories  
 - Destroying hardware at 11 PM for absolutely **no** reason  
 - Psychology (and maybe philosophy someday... but I’m a noob)
