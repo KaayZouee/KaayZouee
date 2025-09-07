@@ -1,6 +1,6 @@
 # Hey, I'm Kay! 🔥
 
-> Aroace chad who’s here to break stuff (and maybe build stuff too).
+> Read this README.md if you want to know more about me!
 
 ---
 
