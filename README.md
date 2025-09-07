@@ -12,10 +12,14 @@
 
 ---
 
-## 💀 Pet Peeves & Hates  
-- Dust (why is it everywhere?) 
-- Linux (yeah, even as a Linux user)
-- SOME Windows users
+## 📖 My programming languages
+- C
+- C++
+- Python
+- Rust
+- Lua (?)
+- Nix
+- HTML (?)
 
 ---
 
