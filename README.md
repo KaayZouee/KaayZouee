@@ -5,7 +5,7 @@
 ---
 
 ## 🎯 Interests  
-- Linux (Arch (endeavour too) and NixOS user)
+- Linux (Arch (endeavour too) and NixOS)
 - Typology & personality theories  
 - Destroying hardware at 11 PM for absolutely **no** reason  
 - Psychology (and maybe philosophy someday... but I’m a noob)
