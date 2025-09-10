@@ -17,10 +17,9 @@
 - C++
 - Python
 - Rust
-- Lua (?)
 - Nix
-- HTML (?)
-
+- Assembly (damn...)
+(disclaimer: I read codes most of the time, I don't write codes, I don't make projects)
 ---
 
 Thanks for stopping by!  
