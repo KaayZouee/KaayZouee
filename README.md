@@ -1,4 +1,4 @@
-# Hey, I'm Kay! 🔥
+# Hey, I'm Kay, a curious backend dev! 🔥
 
 > Read this README.md if you want to know more about me!
 
@@ -14,7 +14,7 @@
 
 ## 📖 My programming languages
 - C
-- C++
+- C++ (my love<3)
 - Python
 - Rust
 - Nix
