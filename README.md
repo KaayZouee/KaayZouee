@@ -5,22 +5,18 @@
 ---
 
 ## 🎯 Interests  
-- Linux (Arch (endeavour too) and NixOS)
-- Typology & personality theories  
-- Destroying hardware at 11 PM for absolutely **no** reason  
-- Psychology (and maybe philosophy someday... but I’m a noob)
-
+- Linux
+- Arduino
+- Destroying hardware at 11 PM for absolutely **no** reason
 ---
 
 ## 📖 My programming languages
-- C
-- C++ (my love<3)
-- Python
-- Rust
-- Nix
-- Assembly (damn...)
-(disclaimer: I read codes most of the time, I don't write codes, I don't make projects)
----
+- C (r--w)
+- C++ (my love<3) (r--w)
+- Python (r--w)
+- Rust (r)
+- Nix (r--w)
+- Assembly (r)
 
 Thanks for stopping by!  
 Follow me if you dare. 😎  
