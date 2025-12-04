@@ -23,6 +23,4 @@ Follow me if you dare. 😎
 - [My cool af tiktok account](https://www.tiktok.com/@kaayzouee)
 - [Linktree - my typology hub](https://linktr.ee/kaayzouee)  
 
----
-
-*— Kay out.*
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaayzouee)](https://github.com/anuraghazra/github-readme-stats)
